@@ -328,7 +328,7 @@ section  .topic{
  .Skills{
   height: 150vh;
   width: 100%;
-  background: url("images/Gradients.jfif") repeat;
+  background: url("./images/Gradients.jfif") repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -365,7 +365,7 @@ section  .topic{
 .contact{
   height: 100vh;
   width: 100%;
-  background: url("images/Gradients.jfif") no-repeat;
+  background: url("./images/Gradients.jfif") no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
