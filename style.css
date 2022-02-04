@@ -226,7 +226,7 @@ section .content{
   font-family: 'poppins', sans-serif ;
 }
 .about{
-  height: 185vh;
+  height: 200vh;
   width: 100%;
   background: url("./Images/Gradients.jfif") no-repeat;
   background-size: cover;
